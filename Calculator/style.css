@@ -1,0 +1,33 @@
+body{
+background-color: rgb(105, 103, 107);
+
+}
+
+.display-box{
+    height: 70px;
+    width: 400px;
+    background-color: rgb(11, 11, 11);
+    color: white;
+    font-size: 27px;
+}
+
+
+.calculator {
+    padding: 10px;
+    padding-top: 20px;
+    border-radius: 1em;
+    height: 380px;
+    width: 400px;
+    margin: auto;
+    background-color: rgb(47, 45, 45);
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+   
+}
+
+td input[type=button]
+{
+    width: 98px;
+    height: 60px;
+    font-size: 25px;
+    /* background-color: rgb(6, 66, 63); */
+}
